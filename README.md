@@ -20,7 +20,7 @@ Pos: Position of a song </p>
 <p> Sales Gainer: Biggest gainer in pure sales of the week </p>
 <p> Streaming Gainer: Biggest gainer in total streams of the week </p>
 <h2> Billboard Hot 100 Final Predictions: October 1st, 2022 </h2>
-<p> <img src="https://user-images.githubusercontent.com/114502835/193614376-e0481448-758a-4072-9d2b-8f509b8b93f2.JPG" alt="1" width="400">
-<img src="https://user-images.githubusercontent.com/114502835/193711312-e385400c-dc9b-47ba-a83e-e9f97b450d50.jpg" alt="1" width="400">
-<img src="https://user-images.githubusercontent.com/114502835/193711365-52ae33b1-353a-4bd7-bf71-52d26e336268.jpg" alt="1" width="400">
-<img src="https://user-images.githubusercontent.com/114502835/193711439-1c7eeaae-5101-4646-938a-db91b441f6d7.jpg" alt="1" width="400">
+<p> <img src="https://user-images.githubusercontent.com/114502835/193614376-e0481448-758a-4072-9d2b-8f509b8b93f2.JPG" alt="1" width="800">
+<img src="https://user-images.githubusercontent.com/114502835/193711312-e385400c-dc9b-47ba-a83e-e9f97b450d50.jpg" alt="1" width="800">
+<img src="https://user-images.githubusercontent.com/114502835/193711365-52ae33b1-353a-4bd7-bf71-52d26e336268.jpg" alt="1" width="800">
+<img src="https://user-images.githubusercontent.com/114502835/193711439-1c7eeaae-5101-4646-938a-db91b441f6d7.jpg" alt="1" width="800">
