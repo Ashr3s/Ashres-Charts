@@ -15,6 +15,10 @@ Pos: Position of a song </p>
 <p> Peak: The highest position a song has been on the chart </p>
 <p> WoC: Weeks on Chart (number of weeks a song has been charting) </p>
 <p> Diff: Percent change in points from last week to this week </p>
+<p> Hot Shot Debut: The highest new entry of the week </p>
+<p> Airplay Gainer: Biggest gainer in radio audience of the week </p>
+<p> Sales Gainer: Biggest gainer in pure sales of the week </p>
+<p> Streaming Gainer: Biggest gainer in total streams of the week </p>
 <h2> Billboard Hot 100 Final Predictions: October 1st, 2022 </h2>
 <p> <img src="https://user-images.githubusercontent.com/114502835/193614376-e0481448-758a-4072-9d2b-8f509b8b93f2.JPG" alt="1" width="400">
 <img src="https://user-images.githubusercontent.com/114502835/193711312-e385400c-dc9b-47ba-a83e-e9f97b450d50.jpg" alt="1" width="400">
