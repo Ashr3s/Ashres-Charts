@@ -1,5 +1,4 @@
 # AshresCharts
-<body>
 <html>
 <h1> Basic Introduction To This Website </h1>
 <p> Hello! Here is a collection of some of the music charts I create, typically pertaining to the Billboard Hot 100 chart, including Billboard Hot 100 Projections (released on Saturday/Sunday) and other custom charts. All charts are also available on my Twitter: (https://twitter.com/ashres_charts). I also work on some charts with online friends, we work on a group account to publish these charts. These group charts can be viewed at: (https://twitter.com/chartessentials). Note that none of the metrics displayed are official, all values are estimated.
