@@ -8,7 +8,7 @@
 <p> Sales (The number of purchases a song recieved on platforms such as iTunes, Amazon, D2C, or physically through CDs and Vinyl) </p>
 <p> Streaming (The number of people who stream a song using a streaming service such as Spotify, Apple Music, Pandora, YouTube, etc.) </p>
 <p> All these metrics are combined in a formula to generate "points" for a song on the chart. The more points a song has, the higher it will place. Old songs are removed from the chart through "recurrency" which occurs when a song falls below #50 on the chart with over 20 weeks or #25 with over 52 weeks (note: songs gaining in performance are able to bypass this rule). </p>
-<h1> Chart Legend </h1>
+<h1> Legend: </h1>
 <p> 
 Pos: Position of a song </p>
 <p> +/-: Change in position of a song (RE means re-entry and NEW means a new charting song) </p>
