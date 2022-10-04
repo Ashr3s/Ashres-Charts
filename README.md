@@ -1,7 +1,7 @@
 # AshresCharts
 <html>
 <h1> Basic Introduction To This Website </h1>
-<p> Hello! Here is a collection of some of the music charts I create, typically pertaining to the Billboard Hot 100 chart, including Billboard Hot 100 Projections (released on Saturday/Sunday) and other custom charts. All charts are also available on my Twitter: (https://twitter.com/ashres_charts). I also work on some charts with online friends, we work on a group account to publish these charts. These group charts can be viewed at: (https://twitter.com/chartessentials). Note that none of the metrics displayed are official, all values are estimated.
+<p> Hello! Here is a collection of some of the music charts I create, typically pertaining to the Billboard Hot 100 chart, including Billboard Hot 100 Projections (released on Saturday/Sunday) and other custom charts. These charts are also typically available on my Twitter: (<a>https://twitter.com/ashres_charts</a>). I also work on these charts with online friends, we work on a group account to publish these charts. These charts can be viewed at: (<a>https://twitter.com/chartessentials</a>). Note that none of the metrics displayed are official, all values are estimated.
 <h1> Basic Introduction To Music Charts </h1>
 <p> Music charts, including the Billboard Hot 100, and other charts that attempt to determine the most popular songs in the United States, collect data from many different resources and forms of consumption. They can typically be broken down into three components: </p>
 <p> Airplay (The number of people who listen to a song on the Radio) </p>
